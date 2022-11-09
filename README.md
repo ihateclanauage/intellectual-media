@@ -4,4 +4,6 @@
 <br><br>PC端请访问以下链接：
 <br>https://ihateclanauage.github.io/intellectual-media/
 <br><br>移动端请扫描以下二维码：
-<br>
+<br>![image](https://imgse.com/i/zSqAUI)
+
+走过路过的同班同学（不是同学也行）们！求在GITHUB上给颗星星吧，期末不易呀！
